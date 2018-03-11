@@ -2,11 +2,11 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
-    android:name="com.martindisch.accelerometer.ScanFragment"
+    android:name="com.jianingsun.mysensortag.ScanFragment"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context="com.jianingsun.mysensortag2.ScanFragment">
+    tools:context="com.jianingsun.mysensortag.ScanFragment">
 
     <android.support.v7.widget.RecyclerView
         android:id="@+id/list"

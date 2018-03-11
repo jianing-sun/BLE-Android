@@ -1,3 +1,21 @@
 <resources>
-    <string name="app_name">mySensorTag2</string>
+    <string name="app_name">SensorTag</string>
+    <string name="no_ble">BLE not supported on this device</string>
+    <string name="ble_disable">Bluetooth disabled</string>
+    <string name="service_not_found">GATT service not found</string>
+    <string name="characteristic_not_found">GATT characteristic not found</string>
+    <string name="xAxis">X: %.2f g</string>
+    <string name="yAxis">Y: %.2f g</string>
+    <string name="zAxis">Z: %.2f g</string>
+    <string name="recording_start">Start recording</string>
+    <string name="recording_stop">Stop recording</string>
+    <string name="recording_export">Export recording</string>
+    <string name="connection_lost">Lost connection with SensorTag</string>
+    <string name="no_data">There is no recorded data</string>
+    <string name="x">X</string>
+    <string name="y">Y</string>
+    <string name="z">Z</string>
+    <string name="max">Maximum: %.2f g</string>
+    <string name="combined">Combined</string>
+    <string name="error_file">Error while writing file</string>
 </resources>

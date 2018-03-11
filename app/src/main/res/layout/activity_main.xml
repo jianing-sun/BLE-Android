@@ -4,7 +4,7 @@
     android:id="@+id/swipeContainer"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.jianingsun.mysensortag2.MainActivity">
+    tools:context="com.jianingsun.mysensortag.MainActivity">
 
     <FrameLayout
         android:id="@+id/container"
