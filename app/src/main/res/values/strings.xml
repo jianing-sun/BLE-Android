@@ -18,4 +18,5 @@
     <string name="max">Maximum: %.2f g</string>
     <string name="combined">Combined</string>
     <string name="error_file">Error while writing file</string>
+    <string name="intro">This app built for SensorTag CC2650 from TI.By processing the accelerator data which acquired from Bluetooth Low Energy (BLE),I simply implemented a pedometer to count steps.\n\nThis app was created by Jianing Sun from McGill University in March 2018.\nContact me: <a href="jianing.sun@mail.mcgill.ca">jianing.sun@mail.mcgill.ca</a></string>
 </resources>

@@ -2,10 +2,10 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
 
     <item
-        android:id="@+id/menuGoal"
+        android:id="@+id/diagueGoal"
         android:title="Goal"/>
     <item
-        android:id="@+id/intro"
+        android:id="@+id/about"
         android:title="About"/>
 
 </menu>

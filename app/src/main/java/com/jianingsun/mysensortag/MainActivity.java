@@ -1,6 +1,8 @@
 package com.jianingsun.mysensortag;
 
+import android.app.AlertDialog;
 import android.app.DialogFragment;
+import android.content.DialogInterface;
 import android.content.pm.PackageManager;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
@@ -10,6 +12,7 @@ import android.support.v4.content.ContextCompat;
 import android.support.v4.widget.SwipeRefreshLayout;
 import android.support.v7.app.AppCompatActivity;
 import android.view.MenuItem;
+import android.widget.TextView;
 import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity implements OnStatusListener {
@@ -74,9 +77,24 @@ public class MainActivity extends AppCompatActivity implements OnStatusListener 
             case android.R.id.home:
                 getFragmentManager().popBackStackImmediate();
                 break;
-            case R.id.menuGoal:
+            case R.id.diagueGoal:
                 DialogFragment goalDialog = GoalDialogFragment.newInstance();
                 goalDialog.show(getFragmentManager(), "Goal");
+                break;
+            case R.id.about:
+                AlertDialog.Builder builder = new AlertDialog.Builder(this);
+                builder.setTitle("About");
+                TextView tv = new TextView(this);
+                tv.setPadding(10, 10, 10, 10);
+                tv.setText(R.string.intro);
+                builder.setView(tv);
+                builder.setPositiveButton(android.R.string.ok, new DialogInterface.OnClickListener() {
+                    @Override
+                    public void onClick(DialogInterface dialog, int which) {
+                        dialog.dismiss();
+                    }
+                });
+                builder.create().show();
                 break;
         }
         return true;
