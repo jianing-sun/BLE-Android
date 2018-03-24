@@ -8,9 +8,9 @@ This repository contains three applications I made about Bluetooth Low Energy (B
 Some source code credit to @j4velin and [EazeGraphLibrary](https://github.com/blackfizz/EazeGraph).  
   
     
-<u>Each app is associated with a pdf or markdown report. Blue_NRG is a demo for students so I uploaded along with a handout which is used for my tutorial.<u/>
+<span style="border_bottom:2px;"Each app is associated with a pdf or markdown report. Blue_NRG is a demo for students so I uploaded along with a handout which is used for my tutorial.<u/>
 
-  
+<span style="border-bottom:2px dashed yellow;">所添加的需要加下划线的行内文字</span>
     
       
       
