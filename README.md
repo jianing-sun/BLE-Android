@@ -6,8 +6,6 @@ This repository contains three applications I made about Bluetooth Low Energy (B
 - SensorTag&Firebase: This is simply plus Firebase Realtime Database for the second one. I used it to test how to upload data to Firebase (only on way now, not include the retrieve part yet). For the login page, I enabled email as the authentication and I create a FAKE user in my Console of Firebase — jianing.sun (at) gmail.com, the password is 950621. The address is NOT me and the password is fake. It is just a visual user in my Firebase used to receive data. After the login view of the app, it will jump to the MainActivity which contains scan fragment and device fragment exactly the same from the second one.
 
 Some source code credit to @j4velin and [EazeGraphLibrary](https://github.com/blackfizz/EazeGraph).  
-  
-    
 *Each app is associated with a pdf or markdown report. Blue_NRG is a demo for students so I uploaded along with a handout which is used for my tutorial.*
 
     
