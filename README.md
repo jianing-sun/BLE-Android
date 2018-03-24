@@ -8,7 +8,11 @@ This repository contains three applications I made about Bluetooth Low Energy (B
 Some source code credit to @j4velin and [EazeGraphLibrary](https://github.com/blackfizz/EazeGraph).
 
 
+  
+    
+      
+      
 
+**SUNJIANING**   
 
-**SUNJIANING**
 **Organize these BLE related apps in March 2018  (Winter 2018)**
