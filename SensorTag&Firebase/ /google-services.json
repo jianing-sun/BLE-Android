@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "683992619501",
+    "firebase_url": "https://sensortag-757e2.firebaseio.com",
+    "project_id": "sensortag-757e2",
+    "storage_bucket": "sensortag-757e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:683992619501:android:434ff2dc5b0b0631",
+        "android_client_info": {
+          "package_name": "com.jianingsun.mysensortag"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "683992619501-qaualee0nvrrjaees7vi6ucbn4lqp8br.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7Ctsqbp5Qj4Dzgye0rtz0xVrX-FUUSpE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

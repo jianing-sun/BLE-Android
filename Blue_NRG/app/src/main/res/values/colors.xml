@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="red">#c23616</color>
+    <color name="green">#4cd137</color>
+    <color name="blue">#00a8ff</color>
+    <color name="purple">#8e44ad</color>
+    <color name="lightbuleballerina">#c8d6e5</color>
+    <color name="wildgreen">#1dd1a1</color>
+    <color name="imperialprimer">#222f3e</color>
+    <color name="fueltown">#576574</color>
+    <color name="hintsofpensive">#dcdde1</color>
+    <color name="blueberrysoda">#7f8fa6</color>
+</resources>

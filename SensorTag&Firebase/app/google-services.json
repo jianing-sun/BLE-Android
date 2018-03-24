@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "448499746849",
+    "firebase_url": "https://sensortagdata-bda7b.firebaseio.com",
+    "project_id": "sensortagdata-bda7b",
+    "storage_bucket": "sensortagdata-bda7b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:448499746849:android:434ff2dc5b0b0631",
+        "android_client_info": {
+          "package_name": "com.jianingsun.mysensortag"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "448499746849-hkg4of1vfpp4ihnb8r13etdboigricf5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqYCAI-tdy4z1fKzL1B73n2usqEB7pmxg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">BlueNRG-Demo</string>
+    <string name="no_ble">BLE not supported on this device</string>
+    <string name="ble_disable">Bluetooth disabled</string>
+    <string name="service_not_found">GATT service not found</string>
+    <string name="characteristic_not_found">GATT characteristic not found</string>
+    <string name="xAxis">a: %.3f </string>
+    <string name="yAxis">b: %.3f </string>
+    <string name="zAxis">c: %.3f </string>
+    <string name="recording_start">Start recording</string>
+    <string name="recording_stop">Stop recording</string>
+    <string name="recording_export">Export recording</string>
+    <string name="connection_lost">Lost connection with SensorTag</string>
+    <string name="no_data">There is no recorded data</string>
+    <string name="x">a</string>
+    <string name="y">b</string>
+    <string name="z">c</string>
+    <string name="max">Maximum: %.2f g</string>
+    <string name="combined">Combined</string>
+    <string name="error_file">Error while writing file</string>
+    <string name="intro">This app built for SensorTag CC2650 from TI.By processing the accelerator data acquired through Bluetooth Low Energy (BLE),I simply implemented a pedometer to count steps.\n\nThis app was created by Jianing Sun from McGill University in March 2018.\n\nAssignmnet 3 for ECSE682.\n\nContact me: <a href="jianing.sun@mail.mcgill.ca">jianing.sun@mail.mcgill.ca</a></string>
+</resources>
