@@ -1,4 +1,4 @@
-###ECSE426 Final Project Tutorial — BLE with Android Studio
+### ECSE426 Final Project Tutorial — BLE with Android Studio
 
 #### by  Jianing Sun    Winter 2018   
 
