@@ -13,5 +13,4 @@ Some source code credit to @j4velin and [EazeGraphLibrary](https://github.com/bl
       
       
 
-**SUNJIANING**   
-**Organize these BLE related apps in March 2018  (Winter 2018)**
+Last Modified: April 16th, Jianing Sun
